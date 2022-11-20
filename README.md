@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 ## I am qixuan, a FE developer
 
 ### JS & Rust Lover
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiveMe-A-Name)](https://github.com/anuraghazra/github-readme-stats)
