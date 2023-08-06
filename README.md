@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## I am qixuan, a FE developer
 
-### JS & Rust Lover
+### TypeScript & Rust Lover
