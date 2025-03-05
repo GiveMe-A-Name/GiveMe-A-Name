@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ## I am qixuan, a FE developer
 
 ### TypeScript & Rust Lover
+
+🔭 I’m currently working on Bytedance
