@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### TypeScript & Rust Lover
 
 🔭 I’m currently working on Bytedance
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiveMe-A-Name)](https://github.com/anuraghazra/github-readme-stats)
