@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### TypeScript & Rust Lover
 
 🔭 I’m currently working on Bytedance
+
+![giveme-a-name's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiveMe-A-Name\&layout=compact)
