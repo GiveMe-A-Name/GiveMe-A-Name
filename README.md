@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I am qixuan, a FE developer
+## I am qixuan, a vibe coder
 
-### TypeScript & Rust Lover
 
 🔭 I’m currently working on Bytedance
